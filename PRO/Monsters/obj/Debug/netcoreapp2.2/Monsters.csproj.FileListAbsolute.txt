@@ -1,0 +1,11 @@
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Monsters\bin\Debug\netcoreapp2.2\Monsters.deps.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Monsters\bin\Debug\netcoreapp2.2\Monsters.runtimeconfig.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Monsters\bin\Debug\netcoreapp2.2\Monsters.runtimeconfig.dev.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Monsters\bin\Debug\netcoreapp2.2\Monsters.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Monsters\bin\Debug\netcoreapp2.2\Monsters.pdb
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Monsters\obj\Debug\netcoreapp2.2\Monsters.csprojAssemblyReference.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Monsters\obj\Debug\netcoreapp2.2\Monsters.csproj.CoreCompileInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Monsters\obj\Debug\netcoreapp2.2\Monsters.AssemblyInfoInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Monsters\obj\Debug\netcoreapp2.2\Monsters.AssemblyInfo.cs
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Monsters\obj\Debug\netcoreapp2.2\Monsters.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Monsters\obj\Debug\netcoreapp2.2\Monsters.pdb

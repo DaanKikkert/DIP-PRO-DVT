@@ -1,0 +1,11 @@
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Simple Calculator\obj\Debug\netcoreapp2.2\Simple Calculator.csprojAssemblyReference.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Simple Calculator\obj\Debug\netcoreapp2.2\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Simple Calculator\obj\Debug\netcoreapp2.2\Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Simple Calculator\obj\Debug\netcoreapp2.2\Simple Calculator.AssemblyInfo.cs
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Simple Calculator\bin\Debug\netcoreapp2.2\Simple Calculator.deps.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Simple Calculator\bin\Debug\netcoreapp2.2\Simple Calculator.runtimeconfig.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Simple Calculator\bin\Debug\netcoreapp2.2\Simple Calculator.runtimeconfig.dev.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Simple Calculator\bin\Debug\netcoreapp2.2\Simple Calculator.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Simple Calculator\bin\Debug\netcoreapp2.2\Simple Calculator.pdb
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Simple Calculator\obj\Debug\netcoreapp2.2\Simple Calculator.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\Simple Calculator\obj\Debug\netcoreapp2.2\Simple Calculator.pdb

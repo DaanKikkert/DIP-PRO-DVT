@@ -1,0 +1,11 @@
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\WHAT\bin\Debug\netcoreapp2.2\WHAT.deps.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\WHAT\bin\Debug\netcoreapp2.2\WHAT.runtimeconfig.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\WHAT\bin\Debug\netcoreapp2.2\WHAT.runtimeconfig.dev.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\WHAT\bin\Debug\netcoreapp2.2\WHAT.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\WHAT\bin\Debug\netcoreapp2.2\WHAT.pdb
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\WHAT\obj\Debug\netcoreapp2.2\WHAT.csprojAssemblyReference.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\WHAT\obj\Debug\netcoreapp2.2\WHAT.csproj.CoreCompileInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\WHAT\obj\Debug\netcoreapp2.2\WHAT.AssemblyInfoInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\WHAT\obj\Debug\netcoreapp2.2\WHAT.AssemblyInfo.cs
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\WHAT\obj\Debug\netcoreapp2.2\WHAT.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\WHAT\obj\Debug\netcoreapp2.2\WHAT.pdb

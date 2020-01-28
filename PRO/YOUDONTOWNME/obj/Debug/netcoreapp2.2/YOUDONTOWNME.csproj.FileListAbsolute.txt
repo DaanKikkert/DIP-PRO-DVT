@@ -1,0 +1,11 @@
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\YOUDONTOWNME\obj\Debug\netcoreapp2.2\YOUDONTOWNME.csprojAssemblyReference.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\YOUDONTOWNME\obj\Debug\netcoreapp2.2\YOUDONTOWNME.csproj.CoreCompileInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\YOUDONTOWNME\obj\Debug\netcoreapp2.2\YOUDONTOWNME.AssemblyInfoInputs.cache
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\YOUDONTOWNME\obj\Debug\netcoreapp2.2\YOUDONTOWNME.AssemblyInfo.cs
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\YOUDONTOWNME\bin\Debug\netcoreapp2.2\YOUDONTOWNME.deps.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\YOUDONTOWNME\bin\Debug\netcoreapp2.2\YOUDONTOWNME.runtimeconfig.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\YOUDONTOWNME\bin\Debug\netcoreapp2.2\YOUDONTOWNME.runtimeconfig.dev.json
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\YOUDONTOWNME\bin\Debug\netcoreapp2.2\YOUDONTOWNME.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\YOUDONTOWNME\bin\Debug\netcoreapp2.2\YOUDONTOWNME.pdb
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\YOUDONTOWNME\obj\Debug\netcoreapp2.2\YOUDONTOWNME.dll
+C:\Users\daank\OneDrive\Documenten\MA\bewijzenmap\periode1.2\PRO\YOUDONTOWNME\obj\Debug\netcoreapp2.2\YOUDONTOWNME.pdb
